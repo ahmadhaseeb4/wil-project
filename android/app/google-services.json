@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "718166834847",
+    "project_id": "wilvcdn2021",
+    "storage_bucket": "wilvcdn2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718166834847:android:a58f6097911c2148c3acaa",
+        "android_client_info": {
+          "package_name": "com.mmhamid.pwot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718166834847-um1nfb2dhrflkoeigfg8obq0k9rkgfp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4c4MoXi8WVHIbkzPpDsgQIeMjqraxlVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718166834847-um1nfb2dhrflkoeigfg8obq0k9rkgfp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718166834847-cbcv19u6pvrkh6ao0a540vni239unkuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmhamid.pwot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
